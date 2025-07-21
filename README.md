@@ -1,3 +1,3 @@
 # fmcbeat
-A music app bt FitMyCity
+A music app by FitMyCity
 Hello
